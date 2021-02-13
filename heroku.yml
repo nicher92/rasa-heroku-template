@@ -1,3 +1,12 @@
-build:
-  docker:
-    web: Dockerfile
+#build:
+#  docker:
+#    web: Dockerfile
+
+nlu:
+- intent: greeting
+  examples: |
+    - i would like to book a meeting
+    - i would like to schedule an appointment
+    - an appointment
+    - appointment
+    - meeting
