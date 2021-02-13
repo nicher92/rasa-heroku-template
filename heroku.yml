@@ -1,24 +1,4 @@
 
-
-
-nlu:
-- intent: appointment
-  examples: |
-    - i would like to book a meeting
-    - i would like to schedule an appointment
-    - an appointment
-    - appointment
-    - meeting
-    
-- intent: timer
-  examples: |
-    - go to timer
-    - timer
-    - i would like to go to timer
-    - timer sounds good
-    - timer please
-    
-- intent: to do
-  examples: |
-    - id like to try to do
-    - go to, to do
+build:
+  docker:
+    web: Dockerfile
