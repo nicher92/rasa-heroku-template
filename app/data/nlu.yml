@@ -49,6 +49,7 @@ nlu:
     - i think it is poland
     - my answer is poland
     - poland is my answer
+    - poland
 
 - intent: sweden
   examples: |
@@ -56,6 +57,7 @@ nlu:
     - i think it is sweden
     - my answer is sweden
     - sweden is my answer
+    - sweden
 
 - intent: latvia
   examples: |
@@ -63,6 +65,7 @@ nlu:
     - i think it is latvia
     - my answer is latvia
     - latvia is my answer
+    - latvia
   
 - intent: lithuania
   examples: |
@@ -70,6 +73,7 @@ nlu:
     - i think it is lithuania
     - my answer is lithuania
     - lithuania is my answer
+    - lithuania
 
 - intent: estonia
   examples: |
@@ -77,6 +81,7 @@ nlu:
     - i think it is estonia
     - my answer is estonia
     - estonia is my answer
+    - estonia
 
 - intent: denmark
   examples: |
@@ -84,6 +89,7 @@ nlu:
     - i think it is denmark
     - my answer is denmark
     - denmark is my answer
+    - denmark
 
 - intent: finland
   examples: |
@@ -91,6 +97,7 @@ nlu:
     - i think it is finland
     - my answer is finland
     - finland is my answer
+    - finland
 
 - intent: germany
   examples: |
@@ -98,6 +105,7 @@ nlu:
     - i think it is germany
     - my answer is finland
     - germany is my answer
+    - germany
 
 - intent: russia
   examples: |
@@ -105,3 +113,4 @@ nlu:
     - i think it is russia
     - my answer is russia
     - russia is my answer
+    - russia
