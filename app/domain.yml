@@ -4,7 +4,6 @@ intents:
   - appointment
   - timer
   - to do
-
   - poland
   - germany
   - lithuania
@@ -14,7 +13,6 @@ intents:
   - latvia
   - denmark
   - estonia
-
   - help
   - repeat
   - score
