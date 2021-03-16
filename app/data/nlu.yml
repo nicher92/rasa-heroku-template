@@ -23,92 +23,85 @@ nlu:
     - go to to do
 
 
-- intent: greet
+- intent: repeat
   examples: |
-    - hey
-    - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+    - could you repeat that?
+    - i want to hear the question again
+    - please repeat the question
+    - tell me the question again
 
-- intent: goodbye
+- intent: help
   examples: |
-    - good afternoon
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
+    - i dont understand
+    - what are the rules of this game?
+    - help 
+    - i need help
 
-- intent: affirm
+- intent: score
   examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+    - who is winning?
+    - what is the score?
+    - how many points do i have?
 
-- intent: deny
+- intent: poland
   examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
+    - the answer is poland
+    - i think it is poland
+    - my answer is poland
+    - poland is my answer
 
-- intent: mood_great
+- intent: sweden
   examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
+    - the answer is sweden
+    - i think it is sweden
+    - my answer is sweden
+    - sweden is my answer
 
-- intent: mood_unhappy
+- intent: latvia
   examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
+    - the answer is latvia
+    - i think it is latvia
+    - my answer is latvia
+    - latvia is my answer
+  
+- intent: lithuania
+  examples: |
+    - the answer is lithuania
+    - i think it is lithuania
+    - my answer is lithuania
+    - lithuania is my answer
 
-- intent: bot_challenge
+- intent: estonia
   examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+    - the answer is estonia
+    - i think it is estonia
+    - my answer is estonia
+    - estonia is my answer
+
+- intent: denmark
+  examples: |
+    - the answer is denmark
+    - i think it is denmark
+    - my answer is denmark
+    - denmark is my answer
+
+- intent: finland
+  examples: |
+    - the answer is finland
+    - i think it is finland
+    - my answer is finland
+    - finland is my answer
+
+- intent: germany
+  examples: |
+    - the answer is germany
+    - i think it is germany
+    - my answer is finland
+    - germany is my answer
+
+- intent: russia
+  examples: |
+    - the answer is russia
+    - i think it is russia
+    - my answer is russia
+    - russia is my answer
